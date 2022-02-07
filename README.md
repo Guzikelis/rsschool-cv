@@ -1,2 +1,1 @@
-<div>Link will be inserted latter.</div>
-<div>It will be done as soon as possible.</div>
+file:///C:/Users/User/Desktop/JS/1_task/rsschool-cv/Guzikelis.github.io/index.html
